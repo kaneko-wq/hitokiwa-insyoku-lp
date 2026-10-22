@@ -1,0 +1,7 @@
+{
+  "name": "hitokiwa-insyoku-lp",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  }
+}
